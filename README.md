@@ -16,6 +16,7 @@ The Wild Oasis is a comprehensive hotel management application built with React 
 - **Password Management**: Secure reset and update functionality
 
 ### 🏡 Cabin Management
+![image](https://github.com/user-attachments/assets/29e4ffcf-629e-438f-9f4e-aaf87deda66b)
 - **Comprehensive Cabin CRUD Operations**: Create, read, update, and delete cabin listings
 - **Media Management**: Upload and manage cabin photos
 - **Pricing Configuration**: Set base prices and special discount offers
@@ -23,6 +24,7 @@ The Wild Oasis is a comprehensive hotel management application built with React 
 - **Filtering & Sorting**: Advanced table features for efficient cabin management
 
 ### 📅 Booking Management
+![image](https://github.com/user-attachments/assets/e9735616-78f7-442c-a4d0-4e7efe3bcd62)
 - **Reservation Overview**: View all bookings in a clean, filterable table
 - **Booking Details**: Track guest information, payment status, and special requests
 - **Date Management**: Clear visualization of arrival and departure dates
@@ -30,6 +32,7 @@ The Wild Oasis is a comprehensive hotel management application built with React 
 - **Filtering System**: Filter bookings by status, dates, and other parameters
 
 ### 📊 Dashboard & Analytics
+![image](https://github.com/user-attachments/assets/f17afc7c-774d-4431-90ec-461b6188dac6)
 - **Business Metrics**: Visual representation of key performance indicators
 - **Occupancy Visualization**: Track room occupancy rates with interactive charts
 - **Revenue Statistics**: Monitor financial performance and trends
@@ -37,6 +40,7 @@ The Wild Oasis is a comprehensive hotel management application built with React 
 - **Data Period Selection**: View statistics for different time periods
 
 ### 🔄 Check-in/Check-out System
+![image](https://github.com/user-attachments/assets/a1e79dfd-d0ca-402d-b9d5-de53e40854ec)
 - **Streamlined Process**: Efficiently manage guest arrivals and departures
 - **Status Updates**: Real-time booking status changes
 - **Payment Confirmation**: Verify and record payment information
