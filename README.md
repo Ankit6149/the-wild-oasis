@@ -1,6 +1,6 @@
 # 🌿 The Wild Oasis
 
-![Hotel Management System](https://your-image-url-here.jpg)
+
 
 ## 📋 Overview
 
@@ -9,6 +9,7 @@ The Wild Oasis is a comprehensive hotel management application built with React 
 ## ✨ Features
 
 ### 🔐 Authentication & User Management
+![image](https://github.com/user-attachments/assets/0ff6976c-5c70-4e1b-a122-48e818939dd5)
 - **Secure Login System**: Restricts access to authorized hotel staff only
 - **User Profile Management**: Update personal information and upload profile pictures
 - **Role-Based Access**: Different permission levels for various staff positions
